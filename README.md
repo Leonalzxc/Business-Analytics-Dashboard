@@ -32,11 +32,6 @@
 - `develop` — разработка
 - `feature` — разработка
 
-## Документы
-
-- [SRS](./docs/SRS.md) — требования
-- [ARCHITECTURE](./docs/ARCHITECTURE.md) — архитектура
-
 ## 📄 Лицензия
 
 MIT License
