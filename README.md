@@ -16,20 +16,6 @@
 **Database:** PostgreSQL  
 **Deployment:** Docker
 
-## 🚀 Быстрый старт
-
-```bash
-# Clone
-git clone https://github.com/Leonalzxc/Business-Analytics-Dashboard.git
-cd Business-Analytics-Dashboard
-
-# Docker
-docker-compose up -d
-
-# Frontend: http://localhost:3000
-# Backend: http://localhost:8000
-```
-
 ## 📁 Структура
 
 ```
@@ -44,13 +30,11 @@ docker-compose up -d
 
 - `main` — production
 - `develop` — разработка
-- `feature/JIRA-XXX-название` — новые функции
 
 ## 📚 Документы
 
 - [SRS](./docs/SRS.md) — требования
 - [ARCHITECTURE](./docs/ARCHITECTURE.md) — архитектура
-- [CONTRIBUTING](./CONTRIBUTING.md) — как разрабатывать
 
 ## 📄 Лицензия
 
