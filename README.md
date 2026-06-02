@@ -11,11 +11,10 @@
 
 ## Технологии
 
-| **Frontend** | **Backend** | **Database** | **Deployment** |
-|:---:|:---:|:---:|:---:|
-| React | FastAPI | PostgreSQL | Docker |
-| TypeScript | Python | | |
-| Material-UI | | | |
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** FastAPI, Python, SQLAlchemy  
+**Database:** PostgreSQL, Redis  
+**Deployment:** Docker, Docker Compose
 
 ## Структура
 
