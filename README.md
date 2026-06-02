@@ -30,6 +30,7 @@
 
 - `main` — production
 - `develop` — разработка
+- `feature/` — разработка
 
 ## Документы
 
