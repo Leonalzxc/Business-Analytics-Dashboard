@@ -11,10 +11,11 @@
 
 ## Технологии
 
-**Frontend:** React, TypeScript, Material-UI  
-**Backend:** FastAPI, Python  
-**Database:** PostgreSQL  
-**Deployment:** Docker
+| **Frontend** | **Backend** | **Database** | **Deployment** |
+|:---:|:---:|:---:|:---:|
+| React | FastAPI | PostgreSQL | Docker |
+| TypeScript | Python | | |
+| Material-UI | | | |
 
 ## Структура
 
